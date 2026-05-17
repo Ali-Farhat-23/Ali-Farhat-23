@@ -1,13 +1,15 @@
-- 👋 Hi, I’m @Ali-Farhat-23
-- 👀 I’m interested in Artificial Intelligence and Emerging Technologies
-- 🌱 I’m continuously learning 
-- 💞️ I’m looking to collaborate on important projects that will reshape the world
-- 📫 How to reach me:
-  - Gmail: alifarhat567@gmail.com
-  - LinkedIn: https://www.linkedin.com/in/alifarhat23/ 
-  
+# Hi, I'm Ali 👋
 
-<!---
-Ali-Farhat-23/Ali-Farhat-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Lead Software Engineer based in Bucharest, Romania.
+CS + Finance graduate from AUB. Building intelligent, scalable web products.
+
+## Stack
+React · Next.js · TypeScript · Node.js · GraphQL · PostgreSQL · Supabase · AWS · Docker
+
+## Currently
+- 🏢 Lead Software Engineer @ Brillio — regulated industry platforms (pharma, med devices, manufacturing)
+- 🛠 Freelancing — full-stack web apps for international clients
+- 🔍 Exploring AI tooling and LLM integrations
+
+## Connect
+[LinkedIn](https://linkedin.com/in/alifarhat23) · alifarhat567@gmail.com
