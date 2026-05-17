@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ali-Farhat-23
-- 👀 I’m interested in Machine Learning and Artificial Intelligence
+- 👀 I’m interested in Artificial Intelligence and Emerging Technologies
 - 🌱 I’m continuously learning 
 - 💞️ I’m looking to collaborate on important projects that will reshape the world
 - 📫 How to reach me:
