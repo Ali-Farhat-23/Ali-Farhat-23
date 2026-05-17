@@ -1,6 +1,7 @@
 # Hi, I'm Ali 👋
 
 Lead Software Engineer based in Bucharest, Romania.
+
 CS + Finance graduate from AUB. Building intelligent, scalable web products.
 
 ## Stack
